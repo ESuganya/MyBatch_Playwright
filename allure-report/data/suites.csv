@@ -1,5 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","2866","User Logout Test @sanity @master","chromium","2026-06-05","passed","2026-06-05","Authentication","auth.spec.ts","",""
-"","6098","Login Test with JSON Data: Valid login @datadriven @master @regression","chromium","2026-06-05","passed","2026-06-05","","loginWithDDT.spec.ts","",""
-"","5969","Login Test with JSON Data: Invalid login @datadriven @master @regression","chromium","2026-06-05","passed","2026-06-05","","loginWithDDT.spec.ts","",""
-"","2578","User Login Test @sanity @master","chromium","2026-06-05","passed","2026-06-05","Authentication","auth.spec.ts","",""
