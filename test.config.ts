@@ -6,7 +6,7 @@ export class TestConfig
     email="suganyaexamplae@gmail.com"
     pwd="India@123"
 
-    produ="c";
+    produ="Laptop"
 
     
 }
