@@ -8,7 +8,7 @@ import { LogoutPage } from '../pages/LogoutPage';
 
 
 //intialize variable for each pages
-let homePage:Homepage;
+//let homePage:Homepage;
 let loginPage:LoginPage;  
 let config1:TestConfig;
 let myAccPage:MyAccountPage;
